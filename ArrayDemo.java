@@ -1,4 +1,4 @@
-public class ArrayDemo {
+public class ArrayDemo {eliyas
     public static void main(String[] args) {
 	int[] anArray;	        // DECLARE an array of integers
 
